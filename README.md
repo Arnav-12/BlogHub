@@ -1,9 +1,7 @@
-#BlogHub
+## BlogHub
 Built a robust, feature-rich blogging application using the MERN stack (MongoDB, Express.js, React.js, Node.js), incorporating both front-end and back-end development.
 
-##Outline of this project
-In this course, you'll learn about:
-
+## Outline of this project
 User Authentication: Implementing secure user registration and login processes.
 File Upload: Enabling users to upload files securely and efficiently.
 User Relationships: Implementing social features like following/unfollowing users.
